@@ -11,11 +11,11 @@ A lightweight, all natural modern Mineraft experience for the nostalgic player.
   Install CurseForge before downloading Immersive Beta
   Link will direct to install Immersive Beta
 ```
-[Manual Download (Modlist)](https://linktodocumentation)
+[Manual Download (Modlist)](https://github.com/jigjagg/ImmersiveBeta/pull/1)
 
 ```bash
   Access the modlist to pick and choose what mods you want
-  Categorized into: Performance, Gameplay, Aesthetic
+  Categorized into: API's, Gameplay, Aesthetic & Resource Packs
 ```
 ## Modlist
 
