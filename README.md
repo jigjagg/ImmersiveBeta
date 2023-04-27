@@ -6,7 +6,7 @@ A lightweight, all natural modern Mineraft experience for the nostalgic player.
 
 ## Installations
 
-[Automatic Download](https://www.curseforge.com/minecraft/modpacks/immersive-beta)
+[Automatic Download](https://legacy.curseforge.com/minecraft/modpacks/immersive-beta)
 ```bash
   Install CurseForge before downloading Immersive Beta
   Link will direct to install Immersive Beta
