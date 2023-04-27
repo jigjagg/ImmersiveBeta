@@ -46,5 +46,5 @@ Here are a few mods and datapacks that may help you with your experience:
 
 ## Support
 
-For support, join our [Discord community](https://linktodocumentation).
+For support, join our [Discord community](https://discord.gg/9jhvTGVaAg).
 
